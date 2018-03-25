@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  font-family: 'Passion One', cursive;
+  color: #ffffff;
+}
+
+.container-fluid{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+body {
+  background-color: #303536;
+}
+
+.imgntext {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.col-xs-10 {
+  background-color: #303536;
+  border: 2px solid;
+  border-radius: 25px;
+  border-color: #084C61;
+}
+
+.jumbotronContent {
+  text-align:center;
+  font-family: 'Passion One', cursive;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #332d2a;
+    border-color: #2e6da4;
+}
+
+.button:hover {
+  background-color: rgba(#0a0a0a, 0.74);
+}
